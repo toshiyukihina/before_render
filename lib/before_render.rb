@@ -1,6 +1,6 @@
 require "before_render/version"
 
-# Register callback method on invoking render method.
+# Register hook method which is invoked before invoking render method.
 module BeforeRender
   extend ActiveSupport::Concern
 

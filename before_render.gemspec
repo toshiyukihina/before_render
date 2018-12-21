@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Action hooker before render method}
   spec.description   = %q{Register callback methods which hook before render method.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/toshiyukihina/before_render"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
